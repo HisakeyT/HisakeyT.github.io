@@ -124,7 +124,7 @@ export const jaTopData: TopData = {
     items: [
       {
         label: 'GitHub',
-        url: 'https://github.com/tomitahisaki',
+        url: 'https://github.com/HisakeyT',
       },
       {
         label: 'LinkedIn',
