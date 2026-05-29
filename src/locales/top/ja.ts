@@ -74,11 +74,11 @@ export const jaTopData: TopData = {
       },
       {
         title: '音楽',
-        description: 'Hi-STANDARDから影響を受け、ベースを始めました。その後は様々なジャンルにはまり、Bon Jovi、Green Day、Slipknotなどの洋楽ロックから、ELLEGARDEN、ONE OK ROCKなどの邦楽ロックまで幅広く聴いています。最近なぜかKpopを聴き始めました。',
+        description: 'Hi-STANDARDから影響を受け、ベースを始めました。様々なジャンルにはまり、Bon Jovi/Slipknot/AllTimeLowなどの洋楽ロックから、ELLEGARDEN/ONE OK ROCKなどの邦楽ロックまで幅広く聴いています。最近なぜかKpopを聴き始めました。',
       },
       {
         title: 'モーニング・カフェ巡り',
-        description: '地方の喫茶店、静かなカフェ、朝のコーヒー、レトロ喫茶。旅先でもカフェによく立ち寄ります。朝にコーヒーを飲みながら、ゆっくり過ごす時間が好きです。',
+        description: '出身が東海地方なこともあり、モーニング文化好きです。妻とよくモーニング巡りをしていました。子供が生まれてからはいけてません。',
       },
       {
         title: '麻雀',
@@ -86,7 +86,7 @@ export const jaTopData: TopData = {
       },
       {
         title: '読書',
-        description: '技術書を読むことも好きですが、エッセイや小説も好きですね。角川文庫を結構呼んでいました',
+        description: '技術書を読むことも好きですが、エッセイや小説も好きですね。角川文庫を結構呼んでいました。',
       },
       {
         title: 'エンジニアリング',
@@ -99,23 +99,23 @@ export const jaTopData: TopData = {
     items: [
       {
         title: 'アニメ',
-        description: 'マスターキートン、十二国記。パトレイバー、ガンダム、ブラックラグーン',
+        description: 'マスターキートン/十二国記/パトレイバー/ガンダム/ブラックラグーン',
       },
       {
         title: '漫画',
-        description: 'ONE PIECE、頭文字D、ブラックジャック、クッキングパパ、マスターキートン',
+        description: 'ONE PIECE/頭文字D/ブラックジャック/クッキングパパ/マスターキートン',
       },
       {
         title: '映画',
-        description: 'ハリー・ポッター、スター・ウォーズ。デンゼル・ワシントンやゲイリー・オールドマンが好き',
+        description: 'ハリー・ポッター/スター・ウォーズ。俳優のデンゼル・ワシントンやゲイリー・オールドマンが好きです',
       },
       {
         title: '音楽',
-        description: 'Hi-STANDARDは神様、Bonjovi/Slipknot/ELLEGARDENは青春。レッチリ/マキシマムザホルモンはベース激ムズ'
+        description: 'Hi-STANDARDは神様、Bonjovi/AllTimeLow/SimplePlan/ELLEGARDENは青春。レッチリ/マキシマムザホルモンはベーシストの憧れ'
       },
       {
         title: '本',
-        description: '万能鑑定士Q、ドラクエ、高橋歩さんのエッセイ',
+        description: '万能鑑定士Q/ポアロ/シャーロック・ホームズ/ハリー・ポッター/高橋歩さんのエッセイ',
       }
     ],
   },
